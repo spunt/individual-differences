@@ -1,0 +1,5 @@
+1 - source (BIF = Behavior Identification Form)
+2 - use? (0 = no, 1 =yes)
+3 - target action
+4 - low-level option
+5 - high-level option
