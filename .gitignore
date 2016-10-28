@@ -1,0 +1,11 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+_archive_
+ehthumbs.db
+Thumbs.db
+data/*mat
+data/*txt
+gh-pages/
